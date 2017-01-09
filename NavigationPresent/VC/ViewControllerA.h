@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ViewControllerA.h
 //  NavigationPresent
 //
 //  Created by kamous on 2016/12/27.
@@ -7,9 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BaseViewController.h"
 
-@interface ViewController : UIViewController
-
+@interface ViewControllerA : BaseViewController
 
 @end
-
